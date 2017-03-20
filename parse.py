@@ -119,6 +119,7 @@ for i in complexBinary:
 
 # save dataframe
 newDf.to_pickle("parsedData") 
+newDf.to_csv('cleandata.csv', encoding = 'gb18030')
 
          
 
