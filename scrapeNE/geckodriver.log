@@ -1,0 +1,198 @@
+1499263175876	geckodriver	INFO	Listening on 127.0.0.1:42389
+1499263177026	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499263179293	Marionette	INFO	Listening on port 43703
+1499263179355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499263179631	Marionette	DEBUG	loaded listener.js
+1499263182999	Marionette	INFO	Ceased listening
+1499263208434	geckodriver	INFO	Listening on 127.0.0.1:35591
+1499263209583	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499263211692	Marionette	INFO	Listening on port 34765
+1499263211735	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499263212049	Marionette	DEBUG	loaded listener.js
+1499263212078	Marionette	INFO	New connections will no longer be accepted
+[Child 15431] WARNING: pipe error (31): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[Child 15431] WARNING: pipe error (16): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[Child 15431] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1499263504412	geckodriver	INFO	Listening on 127.0.0.1:51045
+1499263505561	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499263507602	Marionette	INFO	Listening on port 43207
+1499263507693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499263507959	Marionette	DEBUG	loaded listener.js
+1499263508014	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1499263508646	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499263508647	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1499263509217	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499263509415	Marionette	DEBUG	Received DOM event "pageshow" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499263512426	Marionette	INFO	New connections will no longer be accepted
+[Child 15612] WARNING: pipe error (31): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[Child 15612] WARNING: pipe error (16): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[Child 15612] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1499263740541	geckodriver	INFO	Listening on 127.0.0.1:38127
+1499263741712	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499263743777	Marionette	INFO	Listening on port 41143
+1499263743842	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499263744120	Marionette	DEBUG	loaded listener.js
+1499263744156	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1499263744994	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499263744995	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1499263745613	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499263745757	Marionette	DEBUG	Received DOM event "pageshow" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499263748812	Marionette	INFO	New connections will no longer be accepted
+[Child 15775] WARNING: pipe error (31): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[Child 15775] WARNING: pipe error (16): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[Child 15775] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1499263883867	geckodriver	INFO	Listening on 127.0.0.1:47567
+1499263885017	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499263887102	Marionette	INFO	Listening on port 45291
+1499263887150	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499263887436	Marionette	DEBUG	loaded listener.js
+1499263887475	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1499263888129	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499263888130	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1499263888707	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499263888892	Marionette	DEBUG	Received DOM event "pageshow" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499263891940	Marionette	INFO	New connections will no longer be accepted
+[Child 15921] WARNING: pipe error (31): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[Child 15921] WARNING: pipe error (16): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[Child 15921] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1499264155159	geckodriver	INFO	Listening on 127.0.0.1:60639
+1499264156301	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499264158346	Marionette	INFO	Listening on port 46431
+1499264158445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499264158688	Marionette	DEBUG	loaded listener.js
+1499264158749	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1499264159445	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499264159446	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1499264160018	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499264160211	Marionette	DEBUG	Received DOM event "pageshow" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499264195069	Marionette	INFO	New connections will no longer be accepted
+1499264204501	geckodriver	INFO	Listening on 127.0.0.1:43101
+1499264205645	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499264207671	Marionette	INFO	Listening on port 32997
+1499264207769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499264208006	Marionette	DEBUG	loaded listener.js
+1499264208060	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1499264210190	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499264210191	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1499264210785	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499264211344	Marionette	DEBUG	Received DOM event "pageshow" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499264211473	Marionette	DEBUG	Received DOM event "beforeunload" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499264212039	Marionette	DEBUG	Received DOM event "pagehide" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499264212042	Marionette	DEBUG	Received DOM event "unload" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499264212377	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499264212396	Marionette	DEBUG	Received DOM event "pageshow" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499264215414	Marionette	INFO	New connections will no longer be accepted
+[Child 16209] WARNING: pipe error (31): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[Child 16209] WARNING: pipe error (16): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[Child 16209] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1499264863812	geckodriver	INFO	Listening on 127.0.0.1:40107
+1499264864964	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499264867178	Marionette	INFO	Listening on port 44431
+1499264867284	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499264867546	Marionette	DEBUG	loaded listener.js
+1499264867607	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1499264868373	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499264868374	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1499264868919	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499264869135	Marionette	DEBUG	Received DOM event "pageshow" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499264869308	Marionette	DEBUG	Received DOM event "beforeunload" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499264869796	Marionette	DEBUG	Received DOM event "pagehide" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499264869797	Marionette	DEBUG	Received DOM event "unload" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499264870128	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499264870150	Marionette	DEBUG	Received DOM event "pageshow" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499264873293	Marionette	INFO	New connections will no longer be accepted
+[Child 16726] WARNING: pipe error (31): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[Child 16726] WARNING: pipe error (16): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[Child 16726] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1499265437066	geckodriver	INFO	Listening on 127.0.0.1:47523
+1499265438218	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499265440247	Marionette	INFO	Listening on port 45837
+1499265440342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499265440593	Marionette	DEBUG	loaded listener.js
+1499265440648	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1499265441416	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499265441417	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1499265441987	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499265442156	Marionette	DEBUG	Received DOM event "pageshow" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499265442301	Marionette	DEBUG	Received DOM event "beforeunload" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499265444349	Marionette	DEBUG	Received DOM event "pagehide" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499265444351	Marionette	DEBUG	Received DOM event "unload" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499265444618	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499265444739	Marionette	DEBUG	Received DOM event "pageshow" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499265444978	Marionette	DEBUG	Received DOM event "beforeunload" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499265445561	Marionette	DEBUG	Received DOM event "pagehide" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499265445562	Marionette	DEBUG	Received DOM event "unload" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499265446105	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499265446132	Marionette	DEBUG	Received DOM event "pageshow" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499265446271	Marionette	DEBUG	Received DOM event "beforeunload" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499265448809	Marionette	DEBUG	Received DOM event "pagehide" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499265448812	Marionette	DEBUG	Received DOM event "unload" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499265450234	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499265450241	Marionette	DEBUG	Received DOM event "pageshow" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499265453264	Marionette	INFO	New connections will no longer be accepted
+[Child 17175] WARNING: pipe error (16): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[Child 17175] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1499266154531	geckodriver	INFO	Listening on 127.0.0.1:60347
+1499266155675	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499266157749	Marionette	INFO	Listening on port 36597
+1499266157820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499266158144	Marionette	DEBUG	loaded listener.js
+1499266158180	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1499266160337	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499266160338	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1499266160989	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266161597	Marionette	DEBUG	Received DOM event "pageshow" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266161729	Marionette	DEBUG	Received DOM event "beforeunload" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266162331	Marionette	DEBUG	Received DOM event "pagehide" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266162333	Marionette	DEBUG	Received DOM event "unload" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266162606	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266162680	Marionette	DEBUG	Received DOM event "pageshow" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266162937	Marionette	DEBUG	Received DOM event "beforeunload" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266163521	Marionette	DEBUG	Received DOM event "pagehide" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266163522	Marionette	DEBUG	Received DOM event "unload" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266164084	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266164102	Marionette	DEBUG	Received DOM event "pageshow" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266164247	Marionette	DEBUG	Received DOM event "beforeunload" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266166663	Marionette	DEBUG	Received DOM event "pagehide" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266166664	Marionette	DEBUG	Received DOM event "unload" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266167930	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266167951	Marionette	DEBUG	Received DOM event "pageshow" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266220573	geckodriver	INFO	Listening on 127.0.0.1:47163
+1499266221721	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499266223972	Marionette	INFO	Listening on port 43471
+1499266224055	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499266224322	Marionette	DEBUG	loaded listener.js
+1499266224363	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1499266224487	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1499266224530	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499266224531	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1499266224533	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1499266231707	Marionette	INFO	Ceased listening
+1499266255878	geckodriver	INFO	Listening on 127.0.0.1:53973
+1499266257049	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499266259304	Marionette	INFO	Listening on port 33731
+1499266259396	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499266259653	Marionette	DEBUG	loaded listener.js
+1499266259708	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1499266260536	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499266260537	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1499266261143	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266261296	Marionette	DEBUG	Received DOM event "pageshow" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266261429	Marionette	DEBUG	Received DOM event "beforeunload" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266261934	Marionette	DEBUG	Received DOM event "pagehide" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266261936	Marionette	DEBUG	Received DOM event "unload" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266262380	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266262493	Marionette	DEBUG	Received DOM event "pageshow" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266262740	Marionette	DEBUG	Received DOM event "beforeunload" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266263558	Marionette	DEBUG	Received DOM event "pagehide" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266263559	Marionette	DEBUG	Received DOM event "unload" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266264238	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266264258	Marionette	DEBUG	Received DOM event "pageshow" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266264401	Marionette	DEBUG	Received DOM event "beforeunload" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266268247	Marionette	DEBUG	Received DOM event "pagehide" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266268248	Marionette	DEBUG	Received DOM event "unload" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266269561	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266269592	Marionette	DEBUG	Received DOM event "pageshow" for "http://wwwc.moex.gov.tw/main/exam/wFrmExamQandASearch.aspx?menu_id=241"
+1499266272855	Marionette	INFO	New connections will no longer be accepted
+[Child 17720] WARNING: pipe error (16): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[Child 17720] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
