@@ -40,8 +40,13 @@ def parse_string_to(s):
             next_row += 1
         all_Q.append(Q_string)
 
-    df['Question'] = all_Q # save question to dataframe
+    # testing
+    if len(all_Q) != 80:
+        print('Error with Question number')
 
+    # write to dataframe
+    df['Question'] = all_Q # save question to dataframe
+    
     all_A = []
     for a in A_index:
         q_no = 0 # index of dataframe starts from 0
@@ -51,7 +56,22 @@ def parse_string_to(s):
             A_string = A_string + clean_by_row[next_row]
             next_row += 1
         all_A.append(A_string)
-    return(all_A)
-    # identify choice
+
+    # testing
+    if len(all_A) != len(all_Q)*4:
+        print("missing choice")
+
+    a_s = [all_a[i] for i in list(range(0,80,4))]
+    b_s = [all_a[i] for i in list(range(1,80,4))]
+    c_s = [all_a[i] for i in list(range(2,80,4))]
+    d_s = [all_a[i] for i in list(range(3,80,4))]
+
+    df['A'] = a_s
+    df['B'] = b_s
+    df['C'] = c_s
+    df['D'] = d_s
+
+    return(df)
+    
 
 
