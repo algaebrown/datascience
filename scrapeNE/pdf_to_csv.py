@@ -61,11 +61,11 @@ def parse_string_to(s):
     if len(all_A) != len(all_Q)*4:
         print("missing choice")
 
-    a_s = [all_a[i] for i in list(range(0,80,4))]
-    b_s = [all_a[i] for i in list(range(1,80,4))]
-    c_s = [all_a[i] for i in list(range(2,80,4))]
-    d_s = [all_a[i] for i in list(range(3,80,4))]
-
+    a_s = [all_A[i] for i in list(range(0,320,4))]
+    b_s = [all_A[i] for i in list(range(1,320,4))]
+    c_s = [all_A[i] for i in list(range(2,320,4))]
+    d_s = [all_A[i] for i in list(range(3,320,4))]
+    
     df['A'] = a_s
     df['B'] = b_s
     df['C'] = c_s
